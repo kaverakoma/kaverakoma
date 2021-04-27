@@ -1,4 +1,4 @@
-## Hi, i'm Wedsley Milouchine
+## Hi, i'm Lucas Ballesteros
 
 <div>
   <a href="https://github.com/kaverakoma">
